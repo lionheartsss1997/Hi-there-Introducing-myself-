@@ -2,7 +2,7 @@
 ![Beige Modern Elegant Personal LinkedIn Banner (2)](https://github.com/lionheartsss1997/lionheartsss1997/blob/main/assets/1725312784523.jfif)
 
 
-I'm **Sreehari S.**, a professional Data Analyst and an aspiring Data Engineer with an array of skills in **SQL,Power BI, Python,Tableau,MS Excel**
+I'm **Sreehari S.**, a professional Business Analyst and an Agentic AI Enthusisast.
 
 **<li>SQL** : Proficient in querying and manipulating data with SQL.
 
@@ -33,6 +33,7 @@ I'm **Sreehari S.**, a professional Data Analyst and an aspiring Data Engineer w
 
 <h3>🏆Achievements</h3>
 <li>Best Innovative Startup Idea Award (Kerala Startup Mission)
+<li>Outstanding Performer award(Asianet Satellite Communications Ltd)
 
 <h3>📚Learning Resources</h3>
 <li><a href="https://github.com/lionheartsss1997/Statistics_for_data_science">Statistics for Data Science</a><br></li>
